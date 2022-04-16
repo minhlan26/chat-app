@@ -143,9 +143,9 @@ class _CreateAccountState extends State<CreateAccount>{
         },
         child: Container(
           height: size.height / 14,
-          width: size.width / 1.2,
+          width: size.width / 2,
           decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(5),
+            borderRadius: BorderRadius.circular(14),
             color: Colors.blue,
           ),
           alignment: Alignment.center,
